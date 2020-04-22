@@ -1,1 +1,1 @@
-gcr.io/hello-minikube-zero-install/hello-node:latest
+FROM gcr.io/hello-minikube-zero-install/hello-node:latest
